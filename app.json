@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react_native_routes",
+    "slug": "react_native_routes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
