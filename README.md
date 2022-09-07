@@ -27,6 +27,10 @@
 - ``Maps``
 - ``Camera``
 - ``Animations``
+- ``Stack Navigation``
+- ``Bottom Navigation``
+- ``Drawer Navigation``
+- ``Animations``
 
 ## 💡 technologies
 
