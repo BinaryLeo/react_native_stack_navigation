@@ -1,11 +1,6 @@
-
-import { Routes } from './src/routes';
-
+import { StackNavigation } from "./src/stackNavigation";
+import { BottomNavigation } from "./src/bottomNavigation";
 export default function App() {
-  return (
-
-      <Routes/>
-
-  );
+  //return <StackNavigation />;
+  return <BottomNavigation />;
 }
-

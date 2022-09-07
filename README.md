@@ -47,3 +47,9 @@
 # npx expo install expo camera
 # yarn add expo camera
 
+# npx expo install yarn add @react-navigation/bottom-tabs
+# yarn add @react-navigation/bottom-tabs
+
+# npx expo install @expo/vector-icons
+# yarn add @expo/vector-icons
+

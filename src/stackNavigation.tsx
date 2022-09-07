@@ -5,7 +5,7 @@ import { MapsScreen } from "./screens/maps";
 import { CameraScreen } from "./screens/camera";
 
 const { Navigator, Screen } = createStackNavigator(); //atribuição aonde acesso  as props
-export function Routes() {
+export function StackNavigation() {
   return (
     <NavigationContainer>
       <Navigator

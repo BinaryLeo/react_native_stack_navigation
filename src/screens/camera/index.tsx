@@ -16,7 +16,7 @@ export function CameraScreen() {
       </View>
     );
   }
-
+ //* request permissions
   if (!permission.granted) {
     return (
       <View style={styles.container}>
