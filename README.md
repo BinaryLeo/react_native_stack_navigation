@@ -43,3 +43,7 @@
 
 # npx expo install react-native-gesture-handler
 # yarn add react-native-gesture-handler
+
+# npx expo install expo camera
+# yarn add expo camera
+

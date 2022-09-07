@@ -10,7 +10,4 @@ export const Styles = StyleSheet.create({
   title: {
     fontSize: 28,
   },
-  btn: {
-    marginTop: 10,
-  },
 });

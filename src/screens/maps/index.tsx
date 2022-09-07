@@ -1,9 +1,9 @@
 import{View,Text} from 'react-native';
 import {Styles} from './styles'
-export function Mapas(){
+export function MapsScreen(){
     return(
         <View style={Styles.container}>
-            <Text style={Styles.title}>Mapas</Text>
+            <Text style={Styles.title}>Maps</Text>
         </View>
     )
 }
