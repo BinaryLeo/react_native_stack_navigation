@@ -62,3 +62,21 @@
 
 # npx expo install react-native-reanimated
 # yarn add react-native-reanimated
+
+
+```
+
+## 💡 Notes
+If you're installing this in a bare React Native app, you should also follow these additional installation instructions.
+You must also add the Babel plugin to babel.config.js
+
+``` javascript
+
+module.exports = function(api) {
+  api.cache(true);
+  return {
+    presets: ['babel-preset-expo'],
+    plugins: ['react-native-reanimated/plugin']
+  };
+};
+
