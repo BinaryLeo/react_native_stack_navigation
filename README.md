@@ -60,3 +60,5 @@
 # npx expo install @react-navigation/drawer
 # yarn add @react-navigation/drawer
 
+# npx expo install react-native-reanimated
+# yarn add react-native-reanimated
