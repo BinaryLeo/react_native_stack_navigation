@@ -22,7 +22,7 @@ export function HomeScreen() {
         <Pressable onPress={() => handleScreen("Maps")}>
           <View style={Styles.itemsContainer}>
             <MaterialIcons name="map" color={color} size={32} />
-            <Text>Home</Text>
+            <Text>Maps</Text>
           </View>
         </Pressable>
 
