@@ -25,7 +25,7 @@
 
 - ``Maps``
 - ``Camera``
-- ``Animations``
+- ``Notifications``
 - ``Stack Navigation``
 - ``Bottom Navigation``
 - ``Drawer Navigation``
