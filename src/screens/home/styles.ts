@@ -1,16 +1,25 @@
 import { StyleSheet } from "react-native";
 
 export const Styles = StyleSheet.create({
-  container: {
-    flex: 1,
+  boxView: {
+    marginTop: 50,
     flexDirection: "column",
     justifyContent: "center",
     alignItems: "center",
   },
+  container: {
+    width: "100%",
+    marginTop: 50,
+    flexDirection: "row",
+    justifyContent: "space-around",
+    alignItems: "center",
+  },
   title: {
     fontSize: 28,
+    fontWeight: "bold",
   },
-  btn: {
-    marginTop: 10,
+  itemsContainer: {
+    alignItems: "center",
+    justifyContent: "center",
   },
 });

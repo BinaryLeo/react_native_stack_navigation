@@ -1,7 +1,6 @@
 import { ILocalization } from "../../types";
 import { useState } from "react";
-import { View, Text, Image } from "react-native";
-import { Feather } from "@expo/vector-icons";
+import { View, Text } from "react-native";
 import { styles } from "./styles";
 import MapView, { PROVIDER_GOOGLE, Marker, Callout } from "react-native-maps";
 export function MapsScreen() {
