@@ -1,6 +1,6 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet, Dimensions } from "react-native";
 
-export const Styles = StyleSheet.create({
+export const styles = StyleSheet.create({
   container: {
     flex: 1,
     flexDirection: "column",
@@ -9,5 +9,18 @@ export const Styles = StyleSheet.create({
   },
   title: {
     fontSize: 28,
+  },
+  map: {
+    width: Dimensions.get("window").width,
+    height: Dimensions.get("window").height,
+  },
+  callout:{
+    fontSize: 18,
+    fontWeight: 'bold',
+    textAlign: 'center'
+  },
+  logo: {
+    width: 100,
+    height: 20
   },
 });

@@ -63,7 +63,8 @@
 # npx expo install react-native-reanimated
 # yarn add react-native-reanimated
 
-
+# npx expo install react-native-maps
+# yarn add react-native-maps
 ```
 
 ## 💡 Notes
