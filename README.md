@@ -65,8 +65,8 @@
 # npx expo install react-native-maps
 # yarn add react-native-maps
 
-#np
-#
+# npm install axios
+# yarn add axios
 ```
 
 ## 💡 Notes

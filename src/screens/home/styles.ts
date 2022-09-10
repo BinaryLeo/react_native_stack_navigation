@@ -8,11 +8,19 @@ export const Styles = StyleSheet.create({
     alignItems: "center",
   },
   container: {
-    width: "100%",
-    marginTop: 50,
+    width: "80%",
+    marginTop: 30,
     flexDirection: "row",
     justifyContent: "space-around",
     alignItems: "center",
+    paddingBottom: 20,
+    borderBottomWidth: 1,
+    borderBottomColor: "#067CBB",
+  },
+  repositoryView: {
+    width: "80%",
+    height: "65%",
+    marginTop: 30,
   },
   title: {
     fontSize: 28,
@@ -22,4 +30,9 @@ export const Styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
+  counterRepo:{
+    color: "black",
+    fontSize: 16, 
+    fontWeight: "bold" 
+  }
 });

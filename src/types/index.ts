@@ -4,3 +4,11 @@ export interface ILocalization{
     latitudeDelta: number;
     longitudeDelta: number;
 }
+export interface IRepositories{
+    id: number;
+    name: string;
+    description: string;
+    html_url: string;
+    stargazers_count: number;
+    language: string;
+}
