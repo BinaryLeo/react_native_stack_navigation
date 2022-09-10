@@ -11,6 +11,7 @@
 </div>
 <p align="center">
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-screens">Screens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies and libs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-notes">Notes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,6 +31,30 @@
 - ``Bottom Navigation``
 - ``Drawer Navigation``
 - ``Animations``
+
+## 📱 screens
+
+<table>
+  <tr>
+    <th width="50%">Features</th>
+    <th width="30%">Preview</th>
+  </tr>
+  <tr>
+    <td>Home screen - Style light mode</td>
+    <th rowspan="6"> 
+
+https://user-images.githubusercontent.com/72607039/189484829-22949f1e-0f0a-450a-8d44-c95b24618347.mp4
+
+  </th>
+  </tr>
+   <tr> <td> Fetch data from GitHub APi.</td> </tr>
+   <tr> <td>Handle pagination to repositories.</td> </tr>
+   <tr> <td>Open repositories using an external browser.</td> </tr>
+   <tr> <td>Top Menu - Style "navbar" using MaterialIcons to access Maps, camera and all other features.</td> </tr>
+  <tr><td> </td> </tr>
+  </tr>
+</table>
+
 
 ## 💡 technologies
 
@@ -65,8 +90,7 @@
 # npx expo install react-native-maps
 # yarn add react-native-maps
 
-# npm install axios
-# yarn add axios
+
 ```
 
 ## 💡 Notes
