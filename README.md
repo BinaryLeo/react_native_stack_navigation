@@ -54,7 +54,21 @@ https://user-images.githubusercontent.com/72607039/189484829-22949f1e-0f0a-450a-
   <tr><td> </td> </tr>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Maps</td>
+    <td>Camera</td>
+    <td>Notifications</td>
+  </tr>
+  <tr>
+   
+   <td><img src="https://user-images.githubusercontent.com/72607039/189487759-df67d594-ba7f-4912-9200-4f9b042b6724.png" width=270 height=570></td>
+   
+  <td><img src="https://user-images.githubusercontent.com/72607039/189487735-ee590084-01f8-4e14-a29f-c15fde5f1839.png" width=270 height=570></td> 
+   <td><img src="" width=270 height=570></td>
 
+  </tr>
+ </table>
 
 ## 💡 technologies
 
