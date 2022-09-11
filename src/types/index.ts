@@ -5,6 +5,7 @@ export interface ILocalization{
     longitudeDelta: number;
 }
 
+
 export interface INotification{
     date: number;
     request: {
@@ -16,3 +17,13 @@ export interface INotification{
       };
     }
   }
+
+export interface IRepositories{
+    id: number;
+    name: string;
+    description: string;
+    html_url: string;
+    stargazers_count: number;
+    language: string;
+}
+

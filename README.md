@@ -11,6 +11,7 @@
 </div>
 <p align="center">
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-screens">Screens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies and libs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-notes">Notes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,6 +31,44 @@
 - ``Bottom Navigation``
 - ``Drawer Navigation``
 - ``Animations``
+
+## 📱 screens
+
+<table>
+  <tr>
+    <th width="50%">Features</th>
+    <th width="30%">Preview</th>
+  </tr>
+  <tr>
+    <td>Home screen - Style light mode</td>
+    <th rowspan="6"> 
+
+https://user-images.githubusercontent.com/72607039/189484829-22949f1e-0f0a-450a-8d44-c95b24618347.mp4
+
+  </th>
+  </tr>
+   <tr> <td> Fetch data from GitHub APi.</td> </tr>
+   <tr> <td>Handle pagination to repositories.</td> </tr>
+   <tr> <td>Open repositories using an external browser.</td> </tr>
+   <tr> <td>Top Menu - Style "navbar" using MaterialIcons to access Maps, camera and all other features.</td> </tr>
+  <tr><td> </td> </tr>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Maps</td>
+    <td>Camera</td>
+    <td>Notifications</td>
+  </tr>
+  <tr>
+   
+   <td><img src="https://user-images.githubusercontent.com/72607039/189487759-df67d594-ba7f-4912-9200-4f9b042b6724.png" width=270 height=570></td>
+   
+  <td><img src="https://user-images.githubusercontent.com/72607039/189487735-ee590084-01f8-4e14-a29f-c15fde5f1839.png" width=270 height=570></td> 
+   <td><img src="" width=270 height=570></td>
+
+  </tr>
+ </table>
 
 ## 💡 technologies
 
@@ -65,8 +104,10 @@
 # npx expo install react-native-maps
 # yarn add react-native-maps
 
+
 # npx expo install expo-device expo-notifications
 # yarn add expo-device expo-notifications
+
 ```
 
 ## 💡 Notes
