@@ -4,6 +4,20 @@ export interface ILocalization{
     latitudeDelta: number;
     longitudeDelta: number;
 }
+
+
+export interface INotification{
+    date: number;
+    request: {
+      content: {
+        body: string;
+        sound: string;
+        title: string;
+        data: {}
+      };
+    }
+  }
+
 export interface IRepositories{
     id: number;
     name: string;
@@ -12,3 +26,4 @@ export interface IRepositories{
     stargazers_count: number;
     language: string;
 }
+

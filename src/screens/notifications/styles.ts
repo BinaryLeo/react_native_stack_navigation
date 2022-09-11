@@ -1,4 +1,4 @@
-import { StyleSheet, Dimensions } from "react-native";
+import { StyleSheet} from "react-native";
 
 export const styles = StyleSheet.create({
   container: {
@@ -9,6 +9,10 @@ export const styles = StyleSheet.create({
   },
   text: {
     textAlign: "center",
-    fontSize: 30,
+    fontSize: 20,
   },
+  notificationBox:{
+    padding:10,
+    fontSize: 16,
+  }
 });
