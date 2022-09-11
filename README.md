@@ -104,7 +104,6 @@ https://user-images.githubusercontent.com/72607039/189484829-22949f1e-0f0a-450a-
 # npx expo install react-native-maps
 # yarn add react-native-maps
 
-
 # npx expo install expo-device expo-notifications
 # yarn add expo-device expo-notifications
 
