@@ -65,8 +65,8 @@
 # npx expo install react-native-maps
 # yarn add react-native-maps
 
-#np
-#
+# npx expo install expo-device expo-notifications
+# yarn add expo-device expo-notifications
 ```
 
 ## 💡 Notes
