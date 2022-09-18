@@ -7,16 +7,19 @@ export interface ILocalization{
 
 
 export interface INotification{
-    date: number;
-    request: {
-      content: {
-        body: string;
-        sound: string;
-        title: string;
-        data: {}
-      };
-    }
-  }
+  date: number;
+  request: {
+    content: {
+      body: string;
+      sound: string;
+      title: string;
+      data: {}
+    };
+    identifier: string;
+  };
+ 
+
+}
 
 export interface IRepositories{
     id: number;

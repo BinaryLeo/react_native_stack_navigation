@@ -91,7 +91,8 @@ export function HomeScreen() {
       <View
         style={{
           marginTop: 15,
-          width: 70,
+          marginBottom: 50,
+          width: 80,
           flexDirection: "row",
           alignItems: "center",
           justifyContent: "space-between",

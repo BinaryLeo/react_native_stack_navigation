@@ -11,7 +11,6 @@
     [
       "expo-notifications",
       {
-        "icon": "./src/assets/notify_acate.png",
         "color": "#11A7E2",
         "sounds": ["./src/assets/notifications.wav"]
       }

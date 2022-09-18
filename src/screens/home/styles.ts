@@ -2,7 +2,7 @@ import { StyleSheet } from "react-native";
 
 export const Styles = StyleSheet.create({
   boxView: {
-    marginTop: 50,
+    marginTop: 10,
     flexDirection: "column",
     justifyContent: "center",
     alignItems: "center",
